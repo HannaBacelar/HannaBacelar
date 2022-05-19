@@ -20,18 +20,26 @@ const aboutMe = {
 };
 ```
  <div align="center">
-  <a href="https://github.com/vitoriacst">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacst&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/HannaBacelar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannaBacelar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaBacelar&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Hanna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hanna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hanna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hanna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Hanna-pic" height="200" style="border-radius:50px;" src="https://o.remove.bg/downloads/67980693-e171-43f1-87c8-fa88c92154a0/Captura_de_tela_de_2022-05-18_22-52-53-removebg-preview.png">
+## Technologies I learned 👨‍💻
+<div style="display: inline-block"><br/>
+<img alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="GitHub"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="Redux"src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+<img alt="MySQL"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="right" alt="Hanna-pic" height="200" style="border-radius:50px;" src="https://o.remove.bg/downloads/67980693-e171-43f1-87c8-fa88c92154a0/Captura_de_tela_de_2022-05-18_22-52-53-removebg-preview.png">
+</div><br/>
+
+  
+
 
 
 </div>
