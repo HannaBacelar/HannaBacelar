@@ -30,9 +30,8 @@ const aboutMe = {
   <img align="center" alt="Hanna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hanna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hanna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/67980693-e171-43f1-87c8-fa88c92154a0/Captura_de_tela_de_2022-05-18_22-52-53-removebg-preview.png
-
-">
+  
+  <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/67980693-e171-43f1-87c8-fa88c92154a0/Captura_de_tela_de_2022-05-18_22-52-53-removebg-preview.png">
 
 
 </div>
