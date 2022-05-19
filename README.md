@@ -10,7 +10,8 @@
   <img align="center" alt="Hanna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hanna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hanna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px;" src="![Captura_de_tela_de_2022-05-18_22-52-53-removebg-preview (1)](https://user-images.githubusercontent.com/94336745/169187448-19868313-8e61-4e60-b494-0dcabe5bee69.png)
+  <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px;" src= 
+       "![Captura_de_tela_de_2022-05-18_22-52-53-removebg-preview (1)](https://user-images.githubusercontent.com/94336745/169187448-19868313-8e61-4e60-b494-0dcabe5bee69.png)
 ">
 </div>
   
