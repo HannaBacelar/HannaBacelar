@@ -1,6 +1,6 @@
 
 ## Hello I am Hanna, WELCOME 👋 
-
+ Me chamo Hanna, tenho 19 anos e sou estudante de desenvolvimento Web full Stack na trybe. Sou fascinada por a tecnologia, e como ela proporciona mudanças na vida das pessoas. 😄⚔️
 
 
 ```JavaScript
