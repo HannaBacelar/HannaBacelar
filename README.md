@@ -17,6 +17,11 @@ const aboutMe = {
     'emotional intelligence',
     'organization',
   ]
+  
+  const contactMe = () => ({
+  Linkedin: 'https://www.linkedin.com/in/hannabacelar/',
+  Phone: (33)99829-7631
+});
 };
 ```
 <div align="center">
@@ -57,7 +62,7 @@ ds/67980693-e171-43f1-87c8-fa88c92154a0/Captura_de_tela_de_2022-05-18_22-52-53-r
  
 <div> 
    <a href="mailto:haninhakalilla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/hanna-bacelar-7b0b60196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/hannabacelar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
