@@ -19,11 +19,17 @@ const aboutMe = {
   ]
 };
 ```
- <div align="center">
-  <a href="https://github.com/HannaBacelar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannaBacelar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaBacelar&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=HannaBacelar&count_private=true&show_icons=true&theme=material-palenight" />
+</a>
+</br>
+</br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaBacelar&layout=compact&theme=material-palenight" />
+</a>
+
+
   
 ## Technologies I learned 👨‍💻
 <div style="display: inline-block"><br/>
