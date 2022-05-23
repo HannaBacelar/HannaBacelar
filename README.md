@@ -20,7 +20,7 @@ const aboutMe = {
   
   const contactMe = () => ({
   Linkedin: 'https://www.linkedin.com/in/hannabacelar/',
-  Phone: (33)99829-7631
+  Phone: (33) 99829-7631
 });
 };
 ```
