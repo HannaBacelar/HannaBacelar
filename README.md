@@ -18,10 +18,6 @@ const aboutMe = {
     'organization',
   ]
   
-  const contactMe = () => ({
-  Linkedin: 'https://www.linkedin.com/in/hannabacelar/',
-  Phone: (33) 99829-7631
-});
 };
 ```
 <div align="center">
