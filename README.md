@@ -48,7 +48,6 @@ const aboutMe = {
 ds/67980693-e171-43f1-87c8-fa88c92154a0/Captura_de_tela_de_2022-05-18_22-52-53-removebg-preview.png">
 </div><br/>
 
-  
 
 
 
