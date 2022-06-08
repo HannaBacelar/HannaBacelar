@@ -6,7 +6,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Hanna Bacelar',
-  age: '19 years old';
+  age: '20 years old';
   level: 'Junior',
   languages: ['JavaScript'],
   tools: [ 'Docker', 'Jest', 'React', 'RTL', 'Redux','Context api','Git', 'HTML 5', 'CSS 3',],
