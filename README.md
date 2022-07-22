@@ -9,7 +9,7 @@ const aboutMe = {
   age: '20 years old';
   level: 'Junior',
   languages: ['JavaScript'],
-  tools: [ 'Docker', 'Jest', 'React', 'RTL', 'Redux','Context api','Git', 'HTML 5', 'CSS 3',],
+  tools: [ 'Docker','Sequelize','Express',''Heroku', 'Jest', 'React', 'RTL', 'Redux','Context api','Git', 'HTML 5', 'CSS 3',],
   
   softSkills: [
     'creativity',
