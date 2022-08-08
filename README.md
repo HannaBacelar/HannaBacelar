@@ -8,8 +8,8 @@ const aboutMe = {
   name: 'Hanna Bacelar',
   age: '20 years old';
   level: 'Junior',
-  languages: ['JavaScript'],
-  tools: [ 'Docker','Sequelize','Node.js', 'Express','Heroku', 'Jest', 'React', 
+  languages: ['JavaScript', 'TypeScript],
+  tools: [ 'Docker','POO','Sequelize','Node.js', 'Express','Heroku', 'Jest', 'React', 
   'RTL', 'Redux','Context api','Git', 'HTML 5', 'CSS'],
   
   softSkills: [
