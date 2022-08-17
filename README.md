@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ED0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Hanna!;Seja++bem-vindo(a)+ao+meu+GitHub!!)](https://git.io/typing-svg)
 
- Me chamo Hanna, tenho 20 anos e sou desenvolvedora Web full Stack, Sou fascinada por  tecnologia, e como ela proporciona mudanças na vida das pessoas. 😄⚔️
+ Me chamo Hanna, tenho 20 anos e sou desenvolvedora Web full Stack, sou fascinada por  tecnologia, e como ela proporciona mudanças na vida das pessoas.
+A tecnologia sempre me fascinou, viver no interior me fez ver a tecnologia como fonte de fuga para o mundo. Na trybe pude na prática  aprender como  é o desenvolvimento de todas as coisas que antes eu admirava, pratiquei e desenvolvi vários projetos, me apaixonei pelas linguagens de programação,  minha organização, disciplina e soft skills cresceram muito, e hoje me sinto pronta para somar em um time. 😄⚔️
 
 
 ```JavaScript
